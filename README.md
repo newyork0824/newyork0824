@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @newyork0824
 - 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Raect
 - 💞️ I’m looking to collaborate on any project that can help me grow and help others!
 - 📫 How to reach me Twitter: @SportsGuru100
 
